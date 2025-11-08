@@ -151,7 +151,7 @@ The database includes the following collections:
 ## 👨‍💻 Developer Info
 
 **Author:** Gunje Sundar Kumar  
-**Email:** [sundar967604@gmail.com](mailto:sundargunje823@gmail.com)  
+**Email:** [sundargunje823@gmail.com](mailto:sundargunje823@gmail.com)  
 **Location:** Eluru, India  
 
 ---
