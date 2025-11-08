@@ -24,7 +24,6 @@ All orders are securely stored in a MongoDB database.
 | **Frontend** | React.js, CSS, Bootstrap |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB Atlas |
-| **Authentication (Optional)** | JWT |
 | **Deployment** | Netlify (Frontend) / Render / Vercel (Backend) |
 
 ---
@@ -33,21 +32,21 @@ All orders are securely stored in a MongoDB database.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/nexora-ecommerce.git
-cd nexora-ecommerce
+git clone https://github.com/Sundargunje/nexora-ecom-cart_Assignment.git
+cd nexora-ecom-cart_Assignment
 ```
 
 ### 2. Install Dependencies
 
 #### For Frontend:
 ```bash
-cd client
+cd fronte
 npm install
 ```
 
 #### For Backend:
 ```bash
-cd server
+cd backend
 npm install
 ```
 
@@ -56,7 +55,6 @@ npm install
 ```env
 PORT=5000
 MONGODB_URI=mongodb+srv://<your_mongo_connection_string>
-JWT_SECRET=mysecretkey
 ```
 
 ### 4. Run the Application
