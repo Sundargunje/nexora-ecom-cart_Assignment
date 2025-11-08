@@ -1,0 +1,13 @@
+{
+  "name": "nexora-mock-ecom-cart",
+  "version": "1.0.0",
+  "description": "**Stack:** React (Vite) · Node/Express · In‑memory data (simple); optional DB can be added if needed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
